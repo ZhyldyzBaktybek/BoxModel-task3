@@ -1,0 +1,65 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    
+}
+
+
+
+figure{
+   
+    font-weight: bold;
+    size: 20px;
+    text-align: center;
+  
+}
+
+body {
+    background-color: lightgray;
+   
+}
+
+h2 {
+    font-style: italic;
+    
+}
+
+h1 {
+    color: brown;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.para1 {
+    color: navy;
+    background-color: springgreen;
+    border: 5px;
+}
+
+
+aside {
+  text-indent: 20px;
+}
+
+ul {
+  
+    color: cadetblue;
+}
+
+div {
+    border: 5px;
+}
+.life {
+   font-size: 25px;
+    height: 20px;
+    color: plum;
+    font-family: monospace;
+    padding: 4px;
+    margin-left: 6px;
+}
